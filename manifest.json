@@ -2,7 +2,7 @@
     "name": "Appel Mobile",
     "short_name": "Appel Mobile",
     "description": "Appel Mobile",
-    "start_url": "/Appel Mobile/",
+    "start_url": "/Appel-manifest-mobile/",
     "display": "standalone",
     "background_color": "#000000",
     "theme_color": "#000000",
